@@ -4,21 +4,21 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🏛️I am currently a student of **Yıldız Technical University**.
-- 🦾Major is **Mechatronics Engineering**.
-- 🌱I'm currently learning **Web development, Game development, Data science, AI/ML**.
+- 👨🏛️I am currently a student of **Yıldız Technical University.**.
+- 🦾Major is **Mechatronics Engineering.**.
+- 🌱I'm currently learning **Web development, Game development, Data science, AI/ML.**.
 - 🏎️I'm also learning to design suspension for race cars in my universities **Formula Student Team YTU Racing.**
 - 🗨️If you have any questions, **just ask me**.
 
 **Stuff I am currently working on:**
-- A fun, graphical **Whatsapp group chat analyzer** just like Spotify Wrappped
-- **A LLM blender** that blends responses of selected LLM's and tries to give you best result
+- A fun, graphical **Whatsapp group chat analyzer** just like Spotify Wrappped.
+- **A LLM blender** that blends responses of selected LLM's and tries to give you best result.
 - Learning to make games in **Godot** since: 10.04.2026
-- Still learning **Web development and AI/ML and Data Science**
+- Still learning **Web development and AI/ML and Data Science.**
 
 **Stuff I Published:**
-- A sketch themed, advanced Reminder extension for Chrome based browsers <code><a href="https://chromewebstore.google.com/detail/sketchy-reminders/abpjgldjkgkbdconlooljgdmacjgmmea">Click to see</a></code>
-- A extension for Chrome Based browsers to help people focus on youtube videos by removing any distractions such as recommended videos, comments and websites. With focus time statistics  <code><a href="https://chromewebstore.google.com/detail/youtube-video-focus/kljbepabacoheocldpooendchjbahnlo">Click to see</a></code>
+- A sketch themed, advanced reminder extension for Chrome based browsers. <code><a href="https://chromewebstore.google.com/detail/sketchy-reminders/abpjgldjkgkbdconlooljgdmacjgmmea">Click to see</a></code>
+- A extension for Chrome based browsers to help people focus on youtube videos by removing any distractions such as recommended videos, comments and websites. With focus time statistics and customizations. <code><a href="https://chromewebstore.google.com/detail/youtube-video-focus/kljbepabacoheocldpooendchjbahnlo">Click to see</a></code>
 
 **Languages and Tools I Use and Still Learning:**  
 
