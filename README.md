@@ -17,8 +17,8 @@
 - Still learning **Web development and AI/ML and Data Science**
 
 **Stuff I Published:**
-- A sketch themed, advanced Reminder extension for Chrome based browsers <code><a href="https://chromewebstore.google.com/detail/sketchy-reminders" target="_blank">Click to see</a></code>
-- A extension for Chrome Based browsers to help people focus on youtube videos by removing any distractions such as recommended videos, comments and websites. With focus time statistics  <code><a href="https://chromewebstore.google.com/detail/sketchy-reminders" target="_blank">Click to see</a></code>
+- A sketch themed, advanced Reminder extension for Chrome based browsers <code><a href="https://chromewebstore.google.com/detail/sketchy-reminders/abpjgldjkgkbdconlooljgdmacjgmmea">Click to see</a></code>
+- A extension for Chrome Based browsers to help people focus on youtube videos by removing any distractions such as recommended videos, comments and websites. With focus time statistics  <code><a href="https://chromewebstore.google.com/detail/youtube-video-focus/kljbepabacoheocldpooendchjbahnlo">Click to see</a></code>
 
 **Languages and Tools I Use and Still Learning:**  
 
