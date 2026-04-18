@@ -13,7 +13,7 @@
 **Stuff I am currently working on:**
 - A fun, graphical **Whatsapp group chat analyzer** just like Spotify Wrappped
 - **A LLM blender** that blends responses of selected LLM's and tries to give you best result
-- Learning to make games in **Godot** since: 13.04.2026
+- Learning to make games in **Godot** since: 10.04.2026
 - Still learning **Web development and AI/ML and Data Science**
 
 **Stuff I Published:**
