@@ -4,11 +4,11 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🏛️I am currently a student of **Yıldız Technical University.**.
-- 🦾Major is **Mechatronics Engineering.**.
-- 🌱I'm currently learning **Web development, Game development, Data science, AI/ML.**.
-- 🏎️I'm also learning to design suspension for race cars in my universities **Formula Student Team YTU Racing.**
-- 🗨️If you have any questions, **just ask me**.
+-🏛️ I am currently a student of **Yıldız Technical University.**.
+-🦾Major is **Mechatronics Engineering.**.
+-🌱 I'm currently learning **Web development, Game development, Data science, AI/ML.**.
+-🏎️ I'm also learning to design suspension for race cars in my universities **Formula Student Team YTU Racing.**
+-🗨️ If you have any questions, **just ask me**.
 
 **Stuff I am currently working on:**
 - A fun, graphical **Whatsapp group chat analyzer** just like Spotify Wrappped.
