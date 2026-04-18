@@ -8,7 +8,7 @@
 **Talking about Personal Stuffs:**
 
 - 👨‍🏛 I am currently a student of **Yıldız Technical University**.
-- 💻 Major is **Mechstronics Engineering**.
+- 💻 Major is **Mechatronics Engineering**.
 - 🌱 I'm currently learning **Web development, Game development, AI/ML**.
 - 🏎️ I'm also learning to design suspension for race cars in my universities **Formula Student Team YTU Racing.**
 - 💬 If you have any questions, **just ask me**.
@@ -18,6 +18,8 @@
 - A LLM blender that blends responses of selected LLM's and tries to give you best result
 - Learning to make games in Godot since: 13.04.2026
 
+**Stuff I Published:**
+- A sketch themed, advanced Reminder extension for Chrome based browsers <code><a href="https://chromewebstore.google.com/detail/sketchy-reminders">Click to see</a></code>
 
 **Languages and Tools:**  
 
