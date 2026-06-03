@@ -10,7 +10,7 @@
 - 🌱 I'm currently learning **Web development, Data science, AI/ML.**.
 
 **Stuff I am currently working on:**
-- A fun, graphical **Whatsapp group chat analyzer** just like Spotify Wrappped.
+- A fun, graphical **Whatsapp chat analyzer** just like Spotify Wrapped for groups and contacts.
 - Still learning **Web development, AI/ML and Data Science.**
 
 **Stuff I Published:**
